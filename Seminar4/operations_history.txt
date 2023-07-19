@@ -1,0 +1,31 @@
+
+Successfully 19-07-2023 10:02
+Refill: 400.
+Total:
+400.
+
+Successfully 19-07-2023 10:02
+Refill: 50.
+Total:
+450.
+
+Successfully 19-07-2023 10:02
+Cash withdrawal: 400.
+Total:
+20.
+
+Successfully 19-07-2023 10:02
+Refill: 350.
+Total:
+370.6.
+
+Successfully 19-07-2023 10:02
+Cash withdrawal: 300.
+Total:
+40.60000000000002.
+
+Operation failed: insufficient funds! 19-07-2023 10:02
+Cash withdrawal: 50.
+Total:
+40.60000000000002.
+

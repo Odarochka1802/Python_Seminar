@@ -70,9 +70,6 @@ class TestStudent(unittest.TestCase):
         average_grade = self.student.average_grade()
         self.assertEqual(average_grade, 3.5)
 
-    def test_to_csv(self):
-        # Test writing to CSV file
-        pass
 
 
 if __name__ == '__main__':
